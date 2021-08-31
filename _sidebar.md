@@ -1,0 +1,18 @@
+- Scribe
+  - [Introduction](/)
+  - [Installation](introduction/installation.md)
+  - [Trial limitations](introduction/trial.md)
+  - [Fonts](introduction/fonts.md)
+- Interface
+  - [Main](interface/main.md)
+  - [Author](interface/author.md)
+  - [Settings](interface/settings.md)
+- How to
+  - [Write](how-to/write.md)
+  - [Animate](how-to/animate.md)
+  - [Change the animation order](how-to/reorder)
+  - [Create font](how-to/create)
+  - [Modify font](how-to/modify)
+- Licenses
+  - [Font licenses](licenses/font.md)
+  - [Open source licenses](licenses/opensource.md)

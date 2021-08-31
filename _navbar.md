@@ -1,0 +1,3 @@
+- [Buy Scribe](https://aescripts.com/scribe)
+- [Download fonts](../assets/fonts.zip ":ignore :class=downloadLink")
+- [renderTom](https://rendertom.com)
