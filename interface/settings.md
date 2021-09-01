@@ -6,8 +6,9 @@
 
 ![settings-general](../assets/interface/settings-general.png)
 
-- **Font library** field. The path to the folder, where Scribe fonts are located.
-- **Install new fonts** button. Click to select and install new Scribe fonts.
+- **Font folder** field. The path to the folder, where Scribe fonts are located.
+- **Download fonts** button. Click to download Scribe fonts.
+- **Install fonts** button. Click to select and install new Scribe fonts.
 
 ---
 
