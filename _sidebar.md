@@ -1,8 +1,7 @@
-- Scribe
-  - [Introduction](/)
-  - [Installation](introduction/installation.md)
-  - [Trial limitations](introduction/trial.md)
-  - [Fonts](introduction/fonts.md)
+- [Introduction](/)
+- [Installation](introduction/installation.md)
+- [Trial limitations](introduction/trial.md)
+- [Fonts](fonts.md)
 - Interface
   - [Main](interface/main.md)
   - [Author](interface/author.md)
