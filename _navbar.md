@@ -1,3 +1,3 @@
 - [Buy Scribe](https://aescripts.com/scribe)
-- [Download fonts](https://scribe-fonts-dist.netlify.app/fonts.zip ":ignore :class=downloadLink")
+- [Download fonts](../assets/fonts.zip ":ignore :class=downloadLink")
 - [renderTom](https://rendertom.com)

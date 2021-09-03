@@ -21,6 +21,6 @@ If you are using After Effects CS3 - CS6, please also make sure to install the P
 ## Fonts
 
 1. Click on the **settings** button in the [main interface](interface/main.md) and navigate to the **General settings** section.
-2. Click on the **Install new fonts** buttons and select json files you downloaded with the package (or download them [here](https://scribe-fonts-dist.netlify.app/fonts.zip ":ignore")).
+2. Click on the **Install new fonts** buttons and select json files you downloaded with the package (or download them [here](../assets/fonts.zip ":ignore")).
 
 > By default, font files are installed in the **/Scribe fonts** folder under the user's Documents folder. You are free to change this path anytime you like.

@@ -1,6 +1,6 @@
 # Fonts
 
-Download fonts for Scribe [here](https://scribe-fonts-dist.netlify.app/fonts.zip ":ignore")
+Download fonts for Scribe [here](../assets/fonts.zip ":ignore")
 
 ---
 
