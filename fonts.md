@@ -8,6 +8,7 @@ The list of static fonts that are adopted for the animation in Scribe:
 
 - [Aika](https://fontesk.com/aika-typeface/) designed by [Bapusaheb Patil](https://www.bapspatil.com/)
 - [Delius Swash Caps](https://fonts.google.com/specimen/Delius+Swash+Caps) designed by [Natalia Raices](https://www.facebook.com/natalia.raices)
+- [Diamor](https://www.dafontfree.io/diamor-script-font-free/) designed by [Rhega Juliandy](https://creativemarket.com/deadlock)
 - [Heading West](https://fontesk.com/heading-west-font/) designed by [Stephan Wagner](https://stephanwagner.me/)
 - [League Script](https://fonts.google.com/specimen/League+Script) designed by [Haley Fiege](https://www.haleyfiege.fun/)
 - [Learning Curve](https://www.bvfonts.com/fonts/details.php?id=76) designed by [Jess Latham](https://www.bvfonts.com/)
